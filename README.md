@@ -8,7 +8,7 @@ En este repositorio se desarrolló lo necesario para abordar el desafío propues
 
 Todo está contenido en contenedores en [`docker`](https://docs.docker.com/get-docker/). Por lo que es necesario primero tener todo instalado.
 
-Basta con ejecutar en la consola el siguiente comando.
+Basta con ejecutar en la consola el siguiente comando dentro de la carpeta `ML-Pipe-Server`
 
 ```docker-compose up --build```
 
