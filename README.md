@@ -81,5 +81,5 @@ La api es un servidor con dos enpoints en Flask. Estas son las rutas.
 2. Si bien el desafío no era tan complejo, decidí aprender Airflow para tratar de cumplir las expectativas. Al parecer eso me quitó demasiado tiempo jajaja, y no logré terminar el proyecto como quería :pensive:.
 3. Inependiente de mi falta de tiempo, estuvo entretenido de todas formas. De hecho, me dieron muchas ganas de hacer el desafío de Data Science, se veía muy bacán el enunciado.
 4. Si hubiera tenido más tiempo, hubiera organizado mejor el código y la estructura general del repositorio. Agradezco mucho que me hayan considerado para la postulación.
-5. Hay un typo en el landing page jajajaj, pero ya encuentro injusto arreglarlo fuera de plazo. 
+5. Arreglé un par de typos fuera de plazo. Tamnbién pueden no considerarlos si lo ven justo.
 
